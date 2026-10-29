@@ -23,7 +23,7 @@ levels and raw spreads are not comparable from month to month.
 
 ## Citation
 
-PeptideScouter Peptide Price Index, <Month YYYY> issue, peptidescouter.com,
+PeptideScouter Peptide Price Index, [Month YYYY] issue, peptidescouter.com,
 figures as of the last day of the covered month.
 https://doi.org/10.5281/zenodo.22262438
 
