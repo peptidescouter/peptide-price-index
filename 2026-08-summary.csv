@@ -1,0 +1,29 @@
+metric,scope,value,n,as_of
+panel_compounds,matched pairs,86,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+panel_vendors,matched pairs,21,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+unchanged_listings,matched pairs,856,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+listings_fell,matched pairs,126,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+listings_rose,matched pairs,54,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+median_pct_change_among_movers,matched pairs,-9.0918,180,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+price_per_mg_p25,all (blends excluded),2.9990,990,2026-08-25..2026-08-31
+price_per_mg_p75,all (blends excluded),6.9000,990,2026-08-25..2026-08-31
+median_price_per_mg_listing_weighted,all (blends excluded),4.4990,990,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,all (blends excluded),4.9000,73,2026-08-25..2026-08-31
+mean_pct_change,matched pairs,-1.5142,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+median_pct_change,matched pairs,0.0000,1036,2026-08-01..2026-08-07 -> 2026-08-25..2026-08-31
+median_listing_spread,compounds on >=5 vendors,3.8464,39,2026-08-25..2026-08-31
+fixed_basket_median_price_per_mg_compound_weighted,previous close,4.9000,72,2026-07-25..2026-07-31
+fixed_basket_median_price_per_mg_compound_weighted,current close,4.9000,72,2026-08-25..2026-08-31
+matched_vendor_median_listing_spread,previous close,3.8464,37,2026-07-25..2026-07-31
+matched_vendor_median_listing_spread,current close,3.9668,37,2026-08-25..2026-08-31
+coverage_priced_listings,previous close,919,21,2026-07-25..2026-07-31
+coverage_priced_listings,current close,990,23,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"GLP Agonist & Weight Loss",7.1997,8,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Growth Hormone & Muscle",8.0497,12,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Healing & Repair",4.8000,5,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Hormonal",6.0490,3,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Immune & Anti-inflammatory",4.9000,5,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Longevity & Bioregulators",3.7621,16,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Mitochondrial",3.3748,5,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Nootropic & Neurological",5.0745,12,2026-08-25..2026-08-31
+median_price_per_mg_compound_weighted,"Skin & Cosmetic",2.9975,5,2026-08-25..2026-08-31

@@ -1,0 +1,87 @@
+peptide_slug,peptide_name,category,is_blend,median_price_per_mg,listings,vendors,min_price_per_mg,max_price_per_mg,spread_ratio,matched_vendor_spread_previous,matched_vendor_spread_current,window
+5-amino-1mq,5-Amino-1MQ,Mitochondrial,false,2.9000,31,19,0.8000,8.0000,10.0000,8.0016,10.0000,2026-08-25..2026-08-31
+ace-031,ACE-031,Growth Hormone & Muscle,false,129.9900,1,1,129.9900,129.9900,,,,2026-08-25..2026-08-31
+adamax,Adamax,Nootropic & Neurological,false,6.6500,6,6,4.8990,17.1980,3.5105,,,2026-08-25..2026-08-31
+adamax-1032,Adamax 1032,Nootropic & Neurological,false,9.6495,6,6,6.2990,11.8000,1.8733,,,2026-08-25..2026-08-31
+adipotide,Adipotide,Experimental,false,8.8980,2,2,8.7980,8.9980,,,,2026-08-25..2026-08-31
+ahk-cu,AHK-Cu,Skin & Cosmetic,false,0.4799,3,3,0.3000,0.6998,,,,2026-08-25..2026-08-31
+aicar,AICAR,GLP Agonist & Weight Loss,false,0.9499,2,2,0.7800,1.1198,,,,2026-08-25..2026-08-31
+aod-9604,AOD-9604,GLP Agonist & Weight Loss,false,9.2990,21,16,5.5000,27.5000,5.0000,3.4545,5.0000,2026-08-25..2026-08-31
+ara-290,ARA-290,Healing & Repair,false,4.9000,10,10,3.4344,7.0000,2.0382,1.8679,2.0382,2026-08-25..2026-08-31
+aviptadil,Aviptadil,Nootropic & Neurological,false,21.5990,1,1,21.5990,21.5990,,,,2026-08-25..2026-08-31
+bpc-157,BPC-157,Healing & Repair,false,4.7495,35,22,1.7999,9.8000,5.4447,4.4447,4.4447,2026-08-25..2026-08-31
+bronchogen,Bronchogen,Longevity & Bioregulators,false,5.8000,1,1,5.8000,5.8000,,,,2026-08-25..2026-08-31
+cagrilintide,Cagrilintide,GLP Agonist & Weight Loss,false,9.3950,22,14,6.5000,18.8000,2.8923,3.9167,2.8923,2026-08-25..2026-08-31
+cardiogen,Cardiogen,Longevity & Bioregulators,false,3.7995,1,1,3.7995,3.7995,,,,2026-08-25..2026-08-31
+cartalax,Cartalax,Longevity & Bioregulators,false,3.7248,6,6,2.6995,5.8000,2.1485,2.3205,2.1485,2026-08-25..2026-08-31
+cerebrolysin,Cerebrolysin,Nootropic & Neurological,false,1.3000,2,2,1.3000,1.3000,,,,2026-08-25..2026-08-31
+chonluten,Chonluten,Longevity & Bioregulators,false,3.7995,1,1,3.7995,3.7995,,,,2026-08-25..2026-08-31
+cjc-1295-dac,CJC-1295 With DAC,Growth Hormone & Muscle,false,12.8990,12,10,3.0000,22.0000,7.3333,4.4000,7.3333,2026-08-25..2026-08-31
+cjc-1295-no-dac,CJC-1295 No DAC,Growth Hormone & Muscle,false,7.1995,18,14,3.0000,11.0000,3.6667,3.6667,3.6667,2026-08-25..2026-08-31
+cjc-ipamorelin-blend,CJC-1295 + Ipamorelin Blend,Growth Hormone & Muscle,true,5.7995,20,19,3.4975,9.9000,2.8306,,,2026-08-25..2026-08-31
+cortagen,Cortagen,Longevity & Bioregulators,false,3.7995,1,1,3.7995,3.7995,,,,2026-08-25..2026-08-31
+deadpool-blend,Deadpool Blend,Healing & Repair,true,4.7750,4,4,3.3330,4.9500,,,,2026-08-25..2026-08-31
+dihexa,Dihexa,Nootropic & Neurological,false,5.6990,2,2,5.3990,5.9990,,,,2026-08-25..2026-08-31
+dsip,DSIP,Nootropic & Neurological,false,5.2490,26,19,1.8999,14.0000,7.3688,7.3688,7.3688,2026-08-25..2026-08-31
+epitalon,Epitalon,Longevity & Bioregulators,false,2.9990,20,17,1.2999,7.6500,5.8851,5.8851,5.8851,2026-08-25..2026-08-31
+foxo4-dri,FOXO4-DRI,Longevity & Bioregulators,false,13.4000,7,7,11.4990,21.5990,1.8783,1.7393,1.8783,2026-08-25..2026-08-31
+ghk-cu,GHK-Cu,Skin & Cosmetic,false,0.5400,36,21,0.2600,1.0000,3.8464,3.8464,3.8464,2026-08-25..2026-08-31
+ghk-cu-kpv-blend,GHK-Cu + KPV Blend,Skin & Cosmetic,true,1.1500,6,6,0.9165,1.2165,1.3273,,,2026-08-25..2026-08-31
+ghrp-2,GHRP-2,Growth Hormone & Muscle,false,3.2990,5,3,2.6667,7.8000,,,,2026-08-25..2026-08-31
+ghrp-6,GHRP-6,Growth Hormone & Muscle,false,4.2500,4,3,3.2990,7.0000,,,,2026-08-25..2026-08-31
+glow-blend,GLOW Blend,Healing & Repair,true,1.2714,24,21,0.5571,3.0000,5.3848,,,2026-08-25..2026-08-31
+glutathione,Glutathione,Longevity & Bioregulators,false,0.0458,19,14,0.0200,0.1317,6.5836,7.5000,4.3889,2026-08-25..2026-08-31
+gonadorelin,Gonadorelin,Hormonal,false,11.4975,2,2,8.0000,14.9950,,,,2026-08-25..2026-08-31
+hexarelin,Hexarelin,Growth Hormone & Muscle,false,8.4000,1,1,8.4000,8.4000,,,,2026-08-25..2026-08-31
+humanin,Humanin,Longevity & Bioregulators,false,12.9990,1,1,12.9990,12.9990,,,,2026-08-25..2026-08-31
+igf-1-lr3,IGF-1 LR3,Growth Hormone & Muscle,false,63.0000,13,13,46.0000,110.0000,2.3913,2.2004,2.3913,2026-08-25..2026-08-31
+ipamorelin,Ipamorelin,Growth Hormone & Muscle,false,4.9990,27,21,1.8999,10.0000,5.2634,4.7371,5.2634,2026-08-25..2026-08-31
+kisspeptin-10,Kisspeptin-10,Hormonal,false,4.9000,14,13,3.1490,7.0000,2.2229,2.2230,2.2229,2026-08-25..2026-08-31
+klow-blend,KLOW Blend,Healing & Repair,true,1.3749,23,22,0.8427,3.0000,3.5598,,,2026-08-25..2026-08-31
+kpv,KPV,Immune & Anti-inflammatory,false,4.1995,22,20,2.5250,5.9980,2.3754,2.3754,2.3754,2026-08-25..2026-08-31
+l-carnitine,L-Carnitine,Mitochondrial,false,0.1083,2,2,0.1000,0.1167,,,,2026-08-25..2026-08-31
+lipo-c,Lipo-C,GLP Agonist & Weight Loss,true,0.2525,1,1,0.2525,0.2525,,,,2026-08-25..2026-08-31
+ll-37,LL-37,Immune & Anti-inflammatory,false,8.8490,10,9,5.9990,13.8000,2.3004,2.3004,2.3004,2026-08-25..2026-08-31
+mazdutide,Mazdutide,GLP Agonist & Weight Loss,false,10.4000,2,2,10.4000,10.4000,,,,2026-08-25..2026-08-31
+melanotan-i,Melanotan I,Skin & Cosmetic,false,3.5990,13,13,2.7950,5.3000,1.8962,2.0392,1.8962,2026-08-25..2026-08-31
+melanotan-ii,Melanotan II,Skin & Cosmetic,false,2.9975,22,20,1.2999,5.3000,4.0772,4.0772,4.0772,2026-08-25..2026-08-31
+mgf,MGF (Mechano Growth Factor),Growth Hormone & Muscle,false,21.4950,1,1,21.4950,21.4950,,,,2026-08-25..2026-08-31
+mots-c,MOTS-C,Mitochondrial,false,3.3748,43,23,1.0750,8.9000,8.2793,8.2793,8.2793,2026-08-25..2026-08-31
+n-acetyl-selank,N-Acetyl Selank,Nootropic & Neurological,false,3.9495,2,2,3.4990,4.4000,,,,2026-08-25..2026-08-31
+n-acetyl-semax,N-Acetyl Semax,Nootropic & Neurological,false,4.4000,1,1,4.4000,4.4000,,,,2026-08-25..2026-08-31
+nad,NAD+,Longevity & Bioregulators,false,0.1072,38,22,0.0400,0.2500,6.2503,8.2479,6.2503,2026-08-25..2026-08-31
+nad-mots-c-5-amino-1mq-blend,NAD+ + MOTS-C + 5-Amino-1MQ Blend,Mitochondrial,true,1.0833,1,1,1.0833,1.0833,,,,2026-08-25..2026-08-31
+oxytocin,Oxytocin,Hormonal,false,6.0490,12,9,4.0000,24.9950,6.2488,6.2488,6.2488,2026-08-25..2026-08-31
+pancragen,Pancragen,Longevity & Bioregulators,false,3.2495,1,1,3.2495,3.2495,,,,2026-08-25..2026-08-31
+pda,Pentadeca Arginate,Healing & Repair,false,4.4000,1,1,4.4000,4.4000,,,,2026-08-25..2026-08-31
+pe-22-28,PE-22-28,Nootropic & Neurological,false,4.9000,3,3,4.9000,5.3990,,,,2026-08-25..2026-08-31
+peg-mgf,PEG-MGF,Growth Hormone & Muscle,false,29.5000,3,3,19.9950,29.5000,,,,2026-08-25..2026-08-31
+pinealon,Pinealon,Longevity & Bioregulators,false,4.9990,9,9,2.1495,5.4000,2.5122,2.7007,2.5122,2026-08-25..2026-08-31
+prostamax,Prostamax,Longevity & Bioregulators,false,5.6745,2,2,3.2495,8.0995,,,,2026-08-25..2026-08-31
+pt-141,PT-141,Sexual Health,false,3.2000,21,19,1.5999,7.9000,4.9378,3.0003,4.0621,2026-08-25..2026-08-31
+retatrutide,Retatrutide,GLP Agonist & Weight Loss,false,5.3998,100,23,1.4749,17.0000,11.5258,13.6004,11.5258,2026-08-25..2026-08-31
+retatrutide-cagrilintide-blend,Retatrutide + Cagrilintide Blend,GLP Agonist & Weight Loss,true,6.6222,10,7,5.2079,11.8990,2.2848,,,2026-08-25..2026-08-31
+retatrutide-tirzepatide-blend,Retatrutide + Tirzepatide Blend,GLP Agonist & Weight Loss,true,5.6857,3,3,4.9995,5.6857,,,,2026-08-25..2026-08-31
+selank,Selank,Nootropic & Neurological,false,4.0000,23,18,1.9999,7.0000,3.5002,3.5002,3.5002,2026-08-25..2026-08-31
+semaglutide,Semaglutide,GLP Agonist & Weight Loss,false,5.9995,31,16,1.3333,13.0000,9.7500,8.8500,9.7500,2026-08-25..2026-08-31
+semaglutide-cagrilintide-blend,Semaglutide + Cagrilintide Blend,GLP Agonist & Weight Loss,true,9.9000,3,3,6.4990,9.9000,,,,2026-08-25..2026-08-31
+semax,Semax,Nootropic & Neurological,false,4.0495,20,17,2.5000,6.9000,2.7600,2.0520,2.4000,2026-08-25..2026-08-31
+semax-selank-blend,Semax + Selank Blend,Nootropic & Neurological,true,4.8500,7,6,3.7495,5.9000,1.5735,,,2026-08-25..2026-08-31
+sermorelin,Sermorelin,Growth Hormone & Muscle,false,7.6995,20,16,3.0000,13.8000,4.6000,3.9993,3.9993,2026-08-25..2026-08-31
+slu-pp-332,SLU-PP-332,Mitochondrial,false,11.4980,2,2,9.9980,12.9980,,,,2026-08-25..2026-08-31
+snap-8,Snap-8,Skin & Cosmetic,false,3.3495,8,8,2.5000,3.9000,1.5600,1.7596,1.5600,2026-08-25..2026-08-31
+ss-31,SS-31,Mitochondrial,false,3.3895,20,15,1.9998,6.9000,3.4503,3.0817,3.4503,2026-08-25..2026-08-31
+survodutide,Survodutide,GLP Agonist & Weight Loss,false,8.4000,3,3,7.8000,8.4000,,,,2026-08-25..2026-08-31
+tb-500-frag-17-23,TB-500 Frag 17-23,Healing & Repair,false,4.8000,1,1,4.8000,4.8000,,,,2026-08-25..2026-08-31
+tb-500-tb4,TB-500 Thymosin Beta-4,Healing & Repair,false,5.0000,29,21,2.9999,11.9000,3.9668,3.9668,3.9668,2026-08-25..2026-08-31
+tesamorelin,Tesamorelin,Growth Hormone & Muscle,false,6.7743,36,22,3.4999,17.0000,4.8573,7.0002,4.8573,2026-08-25..2026-08-31
+tesamorelin-ipamorelin-blend,Tesamorelin + Ipamorelin Blend,Growth Hormone & Muscle,true,7.1250,12,11,4.6154,18.0000,3.9000,,,2026-08-25..2026-08-31
+testagen,Testagen,Longevity & Bioregulators,false,3.3995,1,1,3.3995,3.3995,,,,2026-08-25..2026-08-31
+thymalin,Thymalin,Immune & Anti-inflammatory,false,4.9000,1,1,4.9000,4.9000,,,,2026-08-25..2026-08-31
+thymogen,Thymogen,Immune & Anti-inflammatory,false,4.3245,2,2,3.2495,5.3995,,,,2026-08-25..2026-08-31
+thymosin-alpha-1,Thymosin Alpha 1,Immune & Anti-inflammatory,false,6.5000,17,16,3.9990,13.0000,3.2508,3.2508,3.2508,2026-08-25..2026-08-31
+tirzepatide,Tirzepatide,GLP Agonist & Weight Loss,false,3.4833,95,23,0.8666,11.0000,12.6928,12.6928,12.6928,2026-08-25..2026-08-31
+vesugen,Vesugen,Longevity & Bioregulators,false,3.5245,2,2,3.2495,3.7995,,,,2026-08-25..2026-08-31
+vilon,Vilon,Longevity & Bioregulators,false,3.2495,1,1,3.2495,3.2495,,,,2026-08-25..2026-08-31
+vip,VIP,Nootropic & Neurological,false,5.8000,11,11,3.0000,10.0000,3.3333,3.3333,3.3333,2026-08-25..2026-08-31
+wolverine-blend,Wolverine Blend,Healing & Repair,true,5.0497,36,21,2.1000,11.9980,5.7135,,,2026-08-25..2026-08-31

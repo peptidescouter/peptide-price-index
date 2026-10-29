@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these figures, please cite the PeptideScouter Peptide Price Index."
+type: dataset
+title: "PeptideScouter Peptide Price Index"
+abstract: >-
+  Monthly aggregate price statistics for research peptides: per-compound
+  median price per milligram, listing and vendor counts, price spreads and
+  headline index figures. Aggregates only, with no vendor names or
+  per-listing prices.
+authors:
+  - name: "PeptideScouter"
+    website: "https://peptidescouter.com"
+doi: 10.5281/zenodo.22262438
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22262438
+    description: "Concept DOI, resolves to the newest issue"
+url: "https://peptidescouter.com/data/price-index"
+repository: "https://github.com/peptidescouter/peptide-price-index"
+license: CC-BY-4.0
+keywords:
+  - peptides
+  - research peptides
+  - price index
+  - pricing data
